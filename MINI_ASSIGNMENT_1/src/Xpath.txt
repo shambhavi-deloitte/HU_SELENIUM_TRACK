@@ -1,0 +1,38 @@
+  RELATIVE PATH
+  
+-> PHPTRAVELS LOGO    Xpath:\\ imgl@style()='https://phptravels.net/api/uploads/global/logo.png']
+
+->  Home                Xpath:\\a[@title()='home']
+
+->  Flights           Xpath: \\a[@href='https://www.phptravels.net/flights']
+
+->  Tours             Xpath:\\a[@href()-https:// https://www.phptravels.net/tours']
+
+->  Company           Xpath:\\a[@href()='company']
+
+->  Signup Button     Xpath:\\a[@href()= https://www.phptravels.net/signup]
+
+->  Login Button      Xpath:\\a[@href()= https://www.phptravels.net/login']
+
+->  Agents DropDown    Xpath:\\button[@id()='agents']
+
+________________________________________________________________________________________________________________
+ABSOLUTE PATH :
+
+-> PHPTRAVELS LOGO   /html/body/header/div[2]/div/div/div/div/div[1]/a/img
+
+->  Home             /html/body/header/div[2]/div/div/div/div/div[2]/nav/ul/li[1]/a
+
+-> Flights          /html/body/header/div[2]/div/div/div/div/div[2]/nav/ul/li[3]/a
+
+-> Tours            /html/body/header/div[2]/div/div/div/div/div[2]/nav/ul/li[4]/a
+
+-> Company         /html/body/header/div[2]/div/div/div/div/div[2]/nav/ul/li[8]/a
+
+-> signup button   /html/body/header/div[1]/div/div/div[2]/div/div/a[1]
+
+-> Login Button    /html/body/header/div[1]/div/div/div[2]/div/div/a[2]
+
+-> Agents DropDown   /html/body/header/div[1]/div/div/div[2]/div/div/div[4]/div/button
+
+
