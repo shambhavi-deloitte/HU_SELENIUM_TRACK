@@ -1,0 +1,3 @@
+
+* Check-in Calendar icon
+ Ancestor (form group) : //*[@id="hotels-search"]/div/div/div[2]/div/div[1]/div/span/ancestor::div[@class='form-group']
